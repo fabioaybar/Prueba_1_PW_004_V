@@ -1,0 +1,9 @@
+.fondoprincipal{
+    background-image: url("fondo.jpg");
+    background-repeat: repeat-y;
+    background-size: 100rem;
+}
+
+.centrar{
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+.fondoprincipal{
+    background-image: url("fondo.jpg");
+    background-repeat: repeat-y;
+    background-size: 100rem;
+}
+.centrar{
+    text-align: center;
+}
+
+.fondoblanco{
+    background-color: aliceblue;
+}
+
+.borde{
+    margin: auto;
+    width: 100%;
+    border: 1px solid black;
+    
+}
